@@ -98,7 +98,7 @@ MODEL_CONFIG = {
         'fan_speeds': FAN_SPEEDS,
         'support': SUPPORT_ROBOVAC_T2251
     },
-    """ G30 Verge"""
+    """ G30 Verge """
     'T2252': {
         'fan_speeds': FAN_SPEEDS,
         'support': SUPPORT_ROBOVAC_T2252
@@ -108,7 +108,6 @@ MODEL_CONFIG = {
         'fan_speeds': FAN_SPEEDS,
         'support': SUPPORT_ROBOVAC_T2253
     },
-    
     """ 25C T2123 """
     'T2123': {
         'fan_speeds': FAN_SPEEDS,
@@ -119,12 +118,12 @@ MODEL_CONFIG = {
         'fan_speeds': FAN_SPEEDS,
         'support': SUPPORT_ROBOVAC_T2103
     },
-    """35C T2117 """
+    """ 35C T2117 """
     'T2117': {
         'fan_speeds': FAN_SPEEDS,
         'support': SUPPORT_ROBOVAC_T2117
     },
-    """G10 T2150 """
+    """ G10 T2150 """
     'T2150': {
         'fan_speeds': FAN_SPEEDS,
         'support': SUPPORT_ROBOVAC_T2150
